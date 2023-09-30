@@ -1,0 +1,6 @@
+C:\Users\hoang\source\repos\NguyenHoangPhuong-2180601200-BaiTapTuan6\obj\Debug\NguyenHoangPhuong-2180601200-BaiTapTuan6.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\NguyenHoangPhuong-2180601200-BaiTapTuan6\obj\Debug\NguyenHoangPhuong_2180601200_BaiTapTuan6.Form1.resources
+C:\Users\hoang\source\repos\NguyenHoangPhuong-2180601200-BaiTapTuan6\obj\Debug\NguyenHoangPhuong_2180601200_BaiTapTuan6.Properties.Resources.resources
+C:\Users\hoang\source\repos\NguyenHoangPhuong-2180601200-BaiTapTuan6\obj\Debug\NguyenHoangPhuong-2180601200-BaiTapTuan6.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\NguyenHoangPhuong-2180601200-BaiTapTuan6\obj\Debug\NguyenHoangPhuong-2180601200-BaiTapTuan6.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\NguyenHoangPhuong-2180601200-BaiTapTuan6\obj\Debug\NguyenHoangPhuong_2180601200_BaiTapTuan6.BT2.resources
